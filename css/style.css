@@ -6,7 +6,7 @@
 }
 
 .container {
-    background: url("../img/bg.jpg");
+    background: url("../img/bg.avif");
     min-height: 100vh;
     background-size: 100vw 100vh;
     background-repeat: no-repeat;
@@ -39,8 +39,8 @@
 }
 
 .head {
-    background: linear-gradient(rgb(240, 124, 124), rgb(228, 228, 129));
-    border: 2px solid rgb(34, 4, 34);
+    background: #2e6033;
+    /* border: 2px solid rgb(34, 4, 34); */
     transform: scale(1.02);
     border-radius: 9px;
 }
@@ -52,8 +52,7 @@
 }
 
 .food {
-    background: linear-gradient(red, purple);
-    border: .25vmin solid black;
+    background: #fe3e3d;
     border-radius: 8px;
 }
 
